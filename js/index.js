@@ -113,7 +113,7 @@ let counter = 0;
 c2.width = c3.width = window.innerWidth;
 c2.height = c3.height = window.innerHeight;
 ctx1.fillStyle = '#000';
-const text = '任梦佳，你个小傻瓜！';
+const text = '梦佳宝贝，我爱你❤';
 let textWidth = 99999999;
 
 while (textWidth > window.innerWidth) {
